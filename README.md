@@ -4,8 +4,11 @@ simple downloader to download youtube videos and convert them to mp3
 
 # Prerequasits 
 needed Firefox
+
 pip install yt-dlp
+
 FFmpeg			-----		https://www.gyan.dev/ffmpeg/builds/ - release builds - ffmpeg-release-full.7z - 
+
 
 # running the script
 to run the downloader place it in a folder, open CMD navigate to sed folder type in 		python Youtube_to_MP3.py
